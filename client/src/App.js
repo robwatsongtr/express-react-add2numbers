@@ -31,7 +31,7 @@ class App extends React.Component {
     const a = this.state.value1; 
     const b = this.state.value2; 
 
-    fetch('http://localhost:5000/add', {
+    fetch('http://localhost:3000/add', {
       method: "POST",
       headers: {
         Accept: "application/json",
