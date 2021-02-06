@@ -1,0 +1,14 @@
+{
+  "name": "add_two_numbers_server_side",
+  "version": "1.0.0",
+  "description": "This app will add 2 numbers on server side and return to client",
+  "main": "app.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "author": "Rob Watson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
