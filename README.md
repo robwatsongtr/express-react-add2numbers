@@ -5,8 +5,6 @@ A lot of code for a simple task!? Yes, but one has to begin to learn about how t
 
 Port 5000 for the server, 3000, for the front end.
 
-# nodemon start  
-To start the API.
+nodemon start to start the API.
 
-# yarn start
-To start the React front-end client. 
+yarn/npm start to start the React front-end client. 
